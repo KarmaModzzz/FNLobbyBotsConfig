@@ -1,0 +1,95 @@
+{
+    "discord": {
+        "enabled": false,
+        "token": "",
+        "prefix": "!",
+        "allBotsChannelName": "all-bots",
+        "owner": [
+            "759796588842450944"
+        ]
+    },
+    "clients": [
+        {
+            "name": "Bot 1",
+            "email": "bot1@email.com",
+            "owner": [
+                "Code Huguitis"
+            ],
+            "prefix": "!",
+            "bannerIcon": "InfluencerBanner38",
+            "bannerColor": "RED",
+            "level": "999999",
+            "platform": "WINDOWS",
+            "outfit": "CID_028_Athena_Commando_F",
+            "backpack": "BID_004_BlackKnight",
+            "emote": "EID_EasternBloc",
+            "chatMaxCharacters": 50,
+            "blockUsersIfUsernameContains": [
+                "MM-Bot",
+                "MM_Bot",
+                "tnfAngel"
+            ],
+            "ignoreChatMaxIfUsernameContains": [
+                "Code Huguitis",
+                "CodePasteloso",
+                "BLP_R"
+            ],
+            "party": {
+                "playlist": "Playlist_Juno",
+                "privacy": "PUBLIC"
+            },
+            "joinMessage": [
+                "✨ Get a free LobbyBot: discord.gg/YcZ3y6YeM3",
+                "Use !help to see all the available commands!"
+            ],
+            "actions": {
+                "inviteAllFriendsOnConnectAndOnStartup": true,
+                "acceptFriendRequestsOnStartup": true,
+                "sendFriendRequests": true
+            },
+            "status": "✨ Get a free bot: discord.gg/YcZ3y6YeM3",
+            "_comment": "Only premium users can change this config! Get help in our server: discord.gg/YcZ3y6YeM3"
+        },
+        {
+            "name": "Bot 2",
+            "email": "bot2@email.com",
+            "owner": [
+                "Code Huguitis"
+            ],
+            "prefix": "!",
+            "bannerIcon": "InfluencerBanner38",
+            "bannerColor": "RED",
+            "level": "999999",
+            "platform": "WINDOWS",
+            "outfit": "CID_028_Athena_Commando_F",
+            "backpack": "BID_004_BlackKnight",
+            "emote": "EID_EasternBloc",
+            "chatMaxCharacters": 50,
+            "blockUsersIfUsernameContains": [
+                "MM-Bot",
+                "MM_Bot",
+                "tnfAngel"
+            ],
+            "ignoreChatMaxIfUsernameContains": [
+                "Code Huguitis",
+                "CodePasteloso",
+                "BLP_R"
+            ],
+            "party": {
+                "playlist": "Playlist_Juno",
+                "privacy": "PUBLIC"
+            },
+            "joinMessage": [
+                "✨ Get a free LobbyBot: discord.gg/YcZ3y6YeM3",
+                "Use !help to see all the available commands!"
+            ],
+            "actions": {
+                "inviteAllFriendsOnConnectAndOnStartup": true,
+                "acceptFriendRequestsOnStartup": true,
+                "sendFriendRequests": true
+            },
+            "status": "✨ Get a free bot: discord.gg/YcZ3y6YeM3",
+            "_comment": "Only premium users can change this config! Get help in our server: discord.gg/YcZ3y6YeM3"
+        }
+    ]
+}
