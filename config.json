@@ -6,8 +6,8 @@
         "allBotsChannelName": "all-bots",
         "owner": [
             "759796588842450944"
-        ],
-    }
+        ]
+    },
     "clients": [
         {
             "name": "Bot 1",
@@ -46,7 +46,7 @@
                 "acceptFriendRequestsOnStartup": true,
                 "inviteAllFriendsOnConnectAndOnStartup": true,
                 "sendFriendRequests": true
-            }
+            },
             "status": "✨ Get a free bot: discord.gg/YcZ3y6YeM3",
             "_comment": "Only premium users can change this config! Get help in our server: discord.gg/YcZ3y6YeM3",
         },
@@ -89,7 +89,7 @@
                 "sendFriendRequests": true
             }
             "status": "✨ Get a free bot: discord.gg/YcZ3y6YeM3",
-            "_comment": "Only premium users can change this config! Get help in our server: discord.gg/YcZ3y6YeM3",
+            "_comment": "Only premium users can change this config! Get help in our server: discord.gg/YcZ3y6YeM3"
         }
     ]
 }
