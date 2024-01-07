@@ -43,6 +43,8 @@
                 "privacy": "PUBLIC"
             },
             "actions": {
+                "partyCommandsEnabled": true,
+                "whisperCommandsEnabled": true,
                 "acceptFriendRequestsOnStartup": true,
                 "inviteAllFriendsOnConnectAndOnStartup": true,
                 "sendFriendRequests": true
