@@ -32,7 +32,9 @@
             "blockUsersIfUsernameContains": [
                 "MM-Bot",
                 "MM_Bot",
-                "tnfAngel"
+                "tnfAngel",
+                "lobbies",
+                "ChronoBot"
             ],
             "ignoreChatMaxIfUsernameContains": [
                 "Code Huguitis",
