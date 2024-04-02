@@ -28,7 +28,7 @@
                 "Use !help to see all the available commands!",
                 "❤️ GET A FREE BOT LIKE ME: discord.gg/YcZ3y6YeM3 ❤️\n✨ PLEASE USE CODE PASTELOSO IN THE ITEM SHOP! #ad ✨"
             ],
-            "_comment": "Only premium users have the ability to modify this final message. However, you can still include your own join messages! Get help in our server: discord.gg/YcZ3y6YeM3"
+            "_comment": "Only premium users have the ability to modify this final message. However, you can still include your own join messages! Get help in our server: discord.gg/YcZ3y6YeM3",
             "blockUsersIfUsernameContains": [
                 "MM-Bot",
                 "MM_Bot",
