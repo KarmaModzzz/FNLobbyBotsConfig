@@ -1,4 +1,7 @@
 {
+    "global": {
+        "timezone": "Europe/Madrid"
+    },
     "discord": {
         "enabled": false,
         "token": "",
