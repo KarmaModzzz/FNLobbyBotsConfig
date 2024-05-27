@@ -2,6 +2,10 @@
     "global": {
         "timezone": "Europe/Madrid"
     },
+    "dashboard": {
+        "enabled": false,
+        "port": 80
+    },
     "discord": {
         "enabled": false,
         "token": "",
