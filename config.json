@@ -19,7 +19,7 @@
     "clients": [
         {
             "name": "Bot 1",
-            "email": "",
+            "email": "youremail.com",
             "platform": "WINDOWS",
             "prefix": "!",
             "level": "999999",
