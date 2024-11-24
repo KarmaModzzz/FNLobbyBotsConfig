@@ -4,6 +4,7 @@
     },
     "dashboard": {
         "enabled": true,
+        "ip": "",
         "port": 80,
         "password": ""
     },
