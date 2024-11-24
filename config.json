@@ -3,8 +3,9 @@
         "timezone": "Europe/Madrid"
     },
     "dashboard": {
-        "enabled": false,
-        "port": 80
+        "enabled": true,
+        "port": 80,
+        "password": ""
     },
     "discord": {
         "enabled": false,
