@@ -40,6 +40,8 @@
             ],
             "blockUsersIfUsernameContains": [],
             "kickUsersIfUsernameContains": [],
+            "blockUsersIfMessageContains": [],
+            "kickUsersIfMessageContains": [],
             "ignoreChatMaxIfUsernameContains": [],
             "party": {
                 "playlist": "Playlist_Mash_Squads_Legacy",
