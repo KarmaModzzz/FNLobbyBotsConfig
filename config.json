@@ -25,18 +25,18 @@
             "prefix": "!",
             "level": "999999",
             "outfit": "CID_028_Athena_Commando_F",
-            "emote": "EID_EasternBloc",
-            "backpack": "BID_004_BlackKnight",
+            "emote": "EID_Kelplinen_Calcium",
+            "backpack": "BID_138_Celestial",
             "shoes": "Shoes_BreathTalePeony",
             "bannerColor": "RED",
             "bannerIcon": "InfluencerBanner38",
             "chatMaxCharacters": 50,
             "owner": [
-                "Code Huguitis"
+                "Temple is soooooo hottt"
             ],
             "joinMessage": [
                 "Use !help to see all the available commands!",
-                "❤️ GET A FREE BOT LIKE ME: discord.gg/YcZ3y6YeM3 ❤️\n✨ PLEASE USE CODE ROMERIN IN THE ITEM SHOP! #ad ✨"
+                "✨ ❤️❤️Temple❤️❤️ ✨"
             ],
             "blockUsersIfUsernameContains": [],
             "kickUsersIfUsernameContains": [],
@@ -54,7 +54,7 @@
                 "inviteAllFriendsOnConnectAndOnStartup": true,
                 "sendFriendRequests": true
             },
-            "status": "✨ Get a free bot: discord.gg/YcZ3y6YeM3"
+            "status": "✨ photon.voice. on discord"
         }
     ]
 }
